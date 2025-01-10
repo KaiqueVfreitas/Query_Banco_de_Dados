@@ -1,0 +1,3 @@
+Descrição Detalhada do Banco de Dados para a Biblioteca
+
+O objetivo do banco de dados é gerenciar as operações da biblioteca, como o cadastro de livros, usuários e controle de empréstimos. Deve permitir consultas avançadas, como encontrar livros mais emprestados, usuários com histórico de empréstimos e prazos de devolução pendentes. As funcionalidades devem contemplar eficiência e escalabilidade.
